@@ -1,0 +1,1 @@
+export type AccentType = 'british' | 'american' | 'australian' | 'indian';
